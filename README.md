@@ -64,11 +64,12 @@ Soon...
 
 ## Certifications
 
-| Certification                                                  |                                     
-| OSCP
-| OSWE 
+| Certification                                                  |  
 -------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| OSCP               | Offensive Security Certified Professional |
+| OSWE               | Offensive Security Web Expert  |
+
 
 ## Keywords
 
-#audit #auditor
+#audit #auditor #penetratontester #appsec
