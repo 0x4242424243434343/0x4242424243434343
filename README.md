@@ -6,12 +6,6 @@ I am a team member at Thesis Defense, the auditing arm of Thesis Inc, and have p
 On this page you’ll find some of the highlights of my work. 
 
 Public Audit Reports:
-Check these:
-Cosmos 
-Mina
-Tezos
-Filecoin, and 
-Ethereum, in addition to many wallet implementations. 
 
 
 
