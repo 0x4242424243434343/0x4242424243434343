@@ -51,16 +51,15 @@ Ethereum, in addition to many wallet implementations.
 
 ## Publications
 
-Soon...
+[Secureum TrustX 2023](https://www.youtube.com/watch?v=l7H_uwfCqwo&ab_channel=Secureum)
+[My Tools Don't Work Here](https://medium.com/thesis-defense/my-tools-dont-work-here-85efa57668ea)
+
 
 ## Bug Bounties
 
 | Project | Vulnerability | Severity | Platform | Report |
 | ------- | ------------- | -------- | -------- | ------ |
-| Soon... |               | Critical |          |        |
-| Soon... |               | Critical |          |        |
-| Soon... |               | Critical |          |        |
-| Soon... |               | Low      |          |        |
+| Rails   | CVE-2020-8166 | Medium   |          |   https://www.cvedetails.com/cve/CVE-2020-8166/     |
 
 ## Certifications
 
