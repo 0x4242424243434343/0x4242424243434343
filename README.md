@@ -1,7 +1,7 @@
 # Justin
 I am a Security Auditor and Engineer, with over 12 years experience in cybersecurity and as a penetration tester. 
 
-I am a team member at Thesis Defense, the auditing arm of Thesis Inc, and have previously worked as a Security Auditor at Least Authority.  I hold certifications as an Offensive Security Certified Professional (OSCP) and an Offensive Security Web Expert (OSWE).
+I am a team member at Defense by Thesis, the auditing arm of Thesis Inc, and have previously worked as a Security Auditor at Least Authority.  I hold certifications as an Offensive Security Certified Professional (OSCP) and an Offensive Security Web Expert (OSWE).
 
 On this page you’ll find some of the highlights of my work. 
 
