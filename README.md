@@ -17,7 +17,7 @@ Public Audit Reports:
 |[MetaMask](https://metamask.io/) |MetaMask Snaps Extension Integration|September 2023|[:page_facing_up:](https://metamask.io/files/least-authority-metamask-snaps-audit-extension.pdf)|Browser Extension|Javascript|
 |[MetaMask](https://metamask.io/) |MetaMask Snaps |September 2023|[:page_facing_up:](https://metamask.io/files/least-authority-metamask-snaps-audit-extension.pdf)|Browser Extension|Javascript  |
 |[Mina Foundation](https://www.minafoundation.com/)|Mina Signer SDK + Staking Power Wallet| September 2021|[:page_facing_up:](audits/Least-Authority-Mina-Foundation-Mina-Signer-SDK-StakingPower-Wallet-Final-Audit-Report.pdf)|Wallet SDK|JavaScript|
-|[Tezos Foundation](https://tezos.foundation/)| Kukai Wallet| March 2022| [:page_facing_up:](audits/LeastAuthority_Tezos_Foundation_Kukai_Wallet_Final_Audit_Report.pdf)|Wallet|Language|
+|[Tezos Foundation](https://tezos.foundation/)| Kukai Wallet| March 2022| [:page_facing_up:](audits/Least%20Authority%20-%20Tezos%20Foundation%20Kukai%20Wallet%20Final%20Audit%20Report.pdf)|Wallet|Language|
 |[Leather](https://leather.io/) | Hiro Wallet(Leather)|April 2021|[:page_facing_up:](audits/LeastAuthority_Hiro_Stacks_Wallet_Extension_Final_Audit_Report.pdf)|Wallet|JavaScript|
 |[Loopring](https://loopring.org/) | Loopring Circuit Implementation | March 2021| [:page_facing_up:](audits/LeastAuthority_Loopring_3.6_Design_Implementation_Circuit_Final_Audit_Report.pdf)| ZK Circuit| Language?check |
 
