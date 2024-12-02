@@ -11,7 +11,7 @@ Public Audit Reports:
 
 | Client	| Project Name	| Date	| Report	| Type      |Language |
 |-----------|---------------|-------|-----------|-----------|---------|
-|[Velar Labs](https://www.velar.co/)	|Clarity Smart Contracts	|May 2024	| Private |	 Smart Contracts| Clarity |
+|[Velar Labs](https://www.velar.co/)	|Clarity Smart Contracts	|May 2024	| [:page_facing_up:](https://github.com/Thesis-Defense/Security-Audit-Reports/blob/main/PDFs/240717_Thesis_Defense-Velar_Vyper_Smart_Contracts_Security_Audit_Report.pdf) |	 Smart Contracts| Clarity |
 |[Ordiswap](https://ordiswap.fi/)| 	Frontend + Backend 2.0 Implementation |	March 2024 |	Private |	Bitcoin + BRC Bridge | TypeScript/JavaScript|
 |[POKT Network](https://www.pokt.network/)	| Sparse Merkle Trie (SMT)|	February 2024 |	[:page_facing_up:](https://github.com/Thesis-Defense/Security-Audit-Reports/blob/main/PDFs/240612_Thesis_Defense-Pokt_Network_Sparse_Merkel_Trie_Security_Audit_Report.pdf)	| Sparse Merkle Trie Cryptographic Implementation| Go |
 |[MetaMask](https://metamask.io/) |MetaMask Snaps Extension Integration|September 2023|[:page_facing_up:](https://metamask.io/files/least-authority-metamask-snaps-audit-extension.pdf)|Browser Extension|Javascript|
