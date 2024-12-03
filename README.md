@@ -11,7 +11,7 @@ Public Audit Reports:
 
 | Client	| Project Name	| Date	| Report	| Type      |Language |
 |-----------|---------------|-------|-----------|-----------|---------|
-|[Velar Labs](https://www.velar.co/)	|Clarity Smart Contracts	|May 2024	| [:page_facing_up:](https://github.com/Thesis-Defense/Security-Audit-Reports/blob/main/PDFs/240717_Thesis_Defense-Velar_Vyper_Smart_Contracts_Security_Audit_Report.pdf) |	 Smart Contracts| Clarity |
+|[Velar Labs](https://www.velar.co/)	|Clarity Smart Contracts	|May 2024	| [:page_facing_up:](https://github.com/Thesis-Defense/Security-Audit-Reports/blob/main/PDFs/240711_Thesis_Defense-Velar_Clarity_Smart_Contracts_Security_Audit_Report.pdf) |	 Smart Contracts| Clarity |
 |[Ordiswap](https://ordiswap.fi/)| 	Frontend + Backend 2.0 Implementation |	March 2024 |	Private |	Bitcoin + BRC Bridge | TypeScript/JavaScript|
 |[POKT Network](https://www.pokt.network/)	| Sparse Merkle Trie (SMT)|	February 2024 |	[:page_facing_up:](https://github.com/Thesis-Defense/Security-Audit-Reports/blob/main/PDFs/240612_Thesis_Defense-Pokt_Network_Sparse_Merkel_Trie_Security_Audit_Report.pdf)	| Sparse Merkle Trie Cryptographic Implementation| Go |
 |[MetaMask](https://metamask.io/) |MetaMask Snaps Extension Integration|September 2023|[:page_facing_up:](https://metamask.io/files/least-authority-metamask-snaps-audit-extension.pdf)|Browser Extension|Javascript|
@@ -19,7 +19,7 @@ Public Audit Reports:
 |[Mina Foundation](https://www.minafoundation.com/)|Mina Signer SDK + Staking Power Wallet| September 2021|[:page_facing_up:](audits/Least-Authority-Mina-Foundation-Mina-Signer-SDK-StakingPower-Wallet-Final-Audit-Report.pdf)|Wallet SDK|JavaScript|
 |[Tezos Foundation](https://tezos.foundation/)| Kukai Wallet| March 2022| [:page_facing_up:](audits/Least%20Authority%20-%20Tezos%20Foundation%20Kukai%20Wallet%20Final%20Audit%20Report.pdf)|Wallet|Language|
 |[Leather](https://leather.io/) | Hiro Wallet(Leather)|April 2021|[:page_facing_up:](audits/LeastAuthority_Hiro_Stacks_Wallet_Extension_Final_Audit_Report.pdf)|Wallet|JavaScript|
-|[Loopring](https://loopring.org/) | Loopring Circuit Implementation | March 2021| [:page_facing_up:](audits/LeastAuthority_Loopring_3.6_Design_Implementation_Circuit_Final_Audit_Report.pdf)| ZK Circuit| Language?check |
+|[Loopring](https://loopring.org/) | Loopring Circuit Implementation | March 2021| [:page_facing_up:](audits/LeastAuthority_Loopring_3.6_Design_Implementation_Circuit_Final_Audit_Report.pdf)| ZK Circuit| C++ |
 
 
 ## Expertise
